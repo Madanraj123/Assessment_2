@@ -1,3 +1,10 @@
 This is the first file in presentation
 
+<<<<<<< HEAD
 This im typing in local git
+=======
+
+:This is from online platform
+>>>>>>> 8ed9215e8e22b3b162ddbe86558d5539c2fd4cc6
+
+
