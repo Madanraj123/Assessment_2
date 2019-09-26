@@ -2,5 +2,9 @@ This is my second review
 
 Adding few more lines inside the git local
 
+<<<<<<< HEAD
 
 This is from offline
+=======
+This is from online
+>>>>>>> 14e451a58d42f000f8c7fbb12bf47f91252076fe
